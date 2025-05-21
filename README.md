@@ -25,7 +25,7 @@ download the datasets from Google Drive:
 https://drive.google.com/file/d/1nZai2lTdVmb-WwZIsY1e_mjxqoB4gkod/view?usp=sharing
 ```
 
-then unzip this file and post it in the root directory of the project (`AutoGRN/`)
+then unzip this folder and post it in the root directory of the project (`AutoGRN/`)
 ```shell
 unzip data_evaluation.zip
 ```
